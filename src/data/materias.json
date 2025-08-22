@@ -1,0 +1,565 @@
+[
+  {
+    "codigo": "3621",
+    "asignatura": "Matemática Discreta",
+    "programaUrl": "https://ingenieria.unlam.edu.ar/descargas/635_3621-MatematicaDiscreta.pdf",
+    "trayecto": "Ciencias Básicas",
+    "correlativas": [],
+    "year": 1
+  },
+  {
+    "codigo": "3622",
+    "asignatura": "Análisis Matemático I",
+    "programaUrl": "https://ingenieria.unlam.edu.ar/descargas/636_3622_AnalisisMatematicoI.pdf",
+    "trayecto": "Ciencias Básicas",
+    "correlativas": [],
+    "year": 1
+  },
+  {
+    "codigo": "3623",
+    "asignatura": "Programación Inicial",
+    "programaUrl": "https://ingenieria.unlam.edu.ar/descargas/637_3623_ProgramacionInicial.pdf",
+    "trayecto": "Programación",
+    "correlativas": [],
+    "year": 1
+  },
+  {
+    "codigo": "3624",
+    "asignatura": "Introducción a los Sistemas de Informacion",
+    "programaUrl": "https://ingenieria.unlam.edu.ar/descargas/638_3624_IntroduccionalosSistemasdeInformacion.pdf",
+    "trayecto": "Desarrollo de SW",
+    "correlativas": [],
+    "year": 1
+  },
+  {
+    "codigo": "3625",
+    "asignatura": "Sistemas de Numeración",
+    "programaUrl": "https://ingenieria.unlam.edu.ar/descargas/639_3625_SistemasdeNumeracion.pdf",
+    "trayecto": "Infraestructura",
+    "correlativas": [],
+    "year": 1
+  },
+  {
+    "codigo": "3626",
+    "asignatura": "Principios de Calidad de Software",
+    "programaUrl": "https://ingenieria.unlam.edu.ar/descargas/640_3626_ProgramaPrincipiosdeCalidaddeSoftware.pdf",
+    "trayecto": "Calidad y Seguridad de la información",
+    "correlativas": [],
+    "year": 1
+  },
+  {
+    "codigo": "3627",
+    "asignatura": "Álgebra y Geometría Analítica I",
+    "programaUrl": "https://ingenieria.unlam.edu.ar/descargas/641_3627_AlgebrayGeometriaAnaliticaI.pdf",
+    "trayecto": "Ciencias Básicas",
+    "correlativas": [],
+    "year": 1
+  },
+  {
+    "codigo": "3628",
+    "asignatura": "Física I",
+    "programaUrl": "https://ingenieria.unlam.edu.ar/descargas/642_3628_Fisica1.pdf",
+    "trayecto": "Ciencias Básicas",
+    "correlativas": [
+      "3622"
+    ],
+    "year": 1
+  },
+  {
+    "codigo": "3629",
+    "asignatura": "Programación Estructurada Básica",
+    "programaUrl": "https://ingenieria.unlam.edu.ar/descargas/643_3629_ProgramacionEstructuradaBasica.pdf",
+    "trayecto": "Programación",
+    "correlativas": [
+      "3623"
+    ],
+    "year": 1
+  },
+  {
+    "codigo": "3630",
+    "asignatura": "Introducción a la Gestión de Requisitos",
+    "programaUrl": "https://ingenieria.unlam.edu.ar/descargas/644_3630_IntroduccionalaGestiondeRequisitos.pdf",
+    "trayecto": "Desarrollo de SW",
+    "correlativas": [
+      "3624"
+    ],
+    "year": 1
+  },
+  {
+    "codigo": "3631",
+    "asignatura": "Fundamentos de Sistemas Embebidos",
+    "programaUrl": "https://ingenieria.unlam.edu.ar/descargas/645_3631_FundamentosdesistemasEmbebidos.pdf",
+    "trayecto": "Infraestructura",
+    "correlativas": [
+      "3625"
+    ],
+    "year": 1
+  },
+  {
+    "codigo": "3632",
+    "asignatura": "Introducción a los Proyectos Informáticos",
+    "programaUrl": "https://ingenieria.unlam.edu.ar/descargas/646_3632_IntroduccionalosProyectosInformaticos.pdf",
+    "trayecto": "Gestión y Complementarias",
+    "correlativas": [],
+    "year": 1
+  },
+  {
+    "codigo": "3633",
+    "asignatura": "Análisis Matemático II",
+    "programaUrl": "https://ingenieria.unlam.edu.ar/descargas/647_3633_AnalisisMatematicoII.pdf",
+    "trayecto": "Ciencias Básicas",
+    "correlativas": [
+      "3622"
+    ],
+    "year": 2
+  },
+  {
+    "codigo": "3634",
+    "asignatura": "Física II",
+    "programaUrl": "https://ingenieria.unlam.edu.ar/descargas/648_3634_FisicaII.pdf",
+    "trayecto": "Ciencias Básicas",
+    "correlativas": [
+      "3628"
+    ],
+    "year": 2
+  },
+  {
+    "codigo": "3635",
+    "asignatura": "Tópicos de Programación",
+    "programaUrl": "https://ingenieria.unlam.edu.ar/descargas/649_3635-TopicosdeProgramacion.pdf",
+    "trayecto": "Programación",
+    "correlativas": [
+      "3629",
+      "3621"
+    ],
+    "year": 2
+  },
+  {
+    "codigo": "3636",
+    "asignatura": "Bases de Datos",
+    "programaUrl": "https://ingenieria.unlam.edu.ar/descargas/650_3636_BasedeDatos.pdf",
+    "trayecto": "Programación",
+    "correlativas": [
+      "3629",
+      "3621"
+    ],
+    "year": 2
+  },
+  {
+    "codigo": "3637",
+    "asignatura": "Análisis de Sistemas",
+    "programaUrl": "https://ingenieria.unlam.edu.ar/descargas/651_3637_AnalisisdeSistemas.pdf",
+    "trayecto": "Desarrollo de SW",
+    "correlativas": [
+      "3630"
+    ],
+    "year": 2
+  },
+  {
+    "codigo": "3638",
+    "asignatura": "Arquitectura de Computadoras",
+    "programaUrl": "https://ingenieria.unlam.edu.ar/descargas/652_3638-ArquitecturadeComputadoras.pdf",
+    "trayecto": "Infraestructura",
+    "correlativas": [
+      "3631"
+    ],
+    "year": 2
+  },
+  {
+    "codigo": "3639",
+    "asignatura": "Análisis Matemático III",
+    "programaUrl": "https://ingenieria.unlam.edu.ar/descargas/654_3639_AnalisisMatematicoIII.pdf",
+    "trayecto": "Ciencias Básicas",
+    "correlativas": [
+      "3633"
+    ],
+    "year": 2
+  },
+  {
+    "codigo": "3640",
+    "asignatura": "Algoritmos y Estructuras de Datos",
+    "programaUrl": "https://ingenieria.unlam.edu.ar/descargas/655_3640_AlgoritmosyEstructuradeDatos.pdf",
+    "trayecto": "Programación",
+    "correlativas": [
+      "3635"
+    ],
+    "year": 2
+  },
+  {
+    "codigo": "3641",
+    "asignatura": "Bases de Datos Aplicadas",
+    "programaUrl": "https://ingenieria.unlam.edu.ar/descargas/656_3641-BasesdeDatosAplicada.pdf",
+    "trayecto": "Programación",
+    "correlativas": [
+      "3636"
+    ],
+    "year": 2
+  },
+  {
+    "codigo": "3642",
+    "asignatura": "Principios de Diseño de Sistemas",
+    "programaUrl": "https://ingenieria.unlam.edu.ar/descargas/657_3642-PrincipiosdeDisenodeSistemas.pdf",
+    "trayecto": "Desarrollo de SW",
+    "correlativas": [
+      "3637",
+      "3626"
+    ],
+    "year": 2
+  },
+  {
+    "codigo": "3643",
+    "asignatura": "Redes de Computadoras",
+    "programaUrl": "https://ingenieria.unlam.edu.ar/descargas/658_3643_RedesdeComputadoras.pdf",
+    "trayecto": "Infraestructura",
+    "correlativas": [
+      "3638",
+      "3634"
+    ],
+    "year": 2
+  },
+  {
+    "codigo": "3644",
+    "asignatura": "Gestión de las Organizaciones",
+    "programaUrl": "https://ingenieria.unlam.edu.ar/descargas/659_3644GestiondelasOrganizaciones.pdf",
+    "trayecto": "Gestión y Complementarias",
+    "correlativas": [
+      "3632"
+    ],
+    "year": 2
+  },
+  {
+    "codigo": "3645",
+    "asignatura": "Álgebra y Geometría Analítica II",
+    "programaUrl": "https://ingenieria.unlam.edu.ar/descargas/661_3645_AlgebrayGeometriaAnaliticaII.pdf",
+    "trayecto": "Ciencias Básicas",
+    "correlativas": [
+      "3627"
+    ],
+    "year": 3
+  },
+  {
+    "codigo": "3646",
+    "asignatura": "Paradigmas de Programación",
+    "programaUrl": "https://ingenieria.unlam.edu.ar/descargas/662_3646-ParadigmasdeProgramacion.pdf",
+    "trayecto": "Programación",
+    "correlativas": [
+      "3640",
+      "3633"
+    ],
+    "year": 3
+  },
+  {
+    "codigo": "3647",
+    "asignatura": "Requisitos Avanzados",
+    "programaUrl": "https://ingenieria.unlam.edu.ar/descargas/663_3647-RequisitosAvanzados.pdf",
+    "trayecto": "Desarrollo de SW",
+    "correlativas": [
+      "3642"
+    ],
+    "year": 3
+  },
+  {
+    "codigo": "3648",
+    "asignatura": "Diseño de Software",
+    "programaUrl": "https://ingenieria.unlam.edu.ar/descargas/664_3648-DisenodeSoftware.pdf",
+    "trayecto": "Desarrollo de SW",
+    "correlativas": [
+      "3642",
+      "3636"
+    ],
+    "year": 3
+  },
+  {
+    "codigo": "3649",
+    "asignatura": "Sistemas Operativos",
+    "programaUrl": "https://ingenieria.unlam.edu.ar/descargas/665_3649-SistemasOperativos.pdf",
+    "trayecto": "Infraestructura",
+    "correlativas": [
+      "3638"
+    ],
+    "year": 3
+  },
+  {
+    "codigo": "3650",
+    "asignatura": "Seguridad de la Información",
+    "programaUrl": "https://ingenieria.unlam.edu.ar/descargas/666_3650-SeguridaddelaInformacion.pdf",
+    "trayecto": "Calidad y Seguridad de la información",
+    "correlativas": [
+      "3643",
+      "3638",
+      "3635"
+    ],
+    "year": 3
+  },
+  {
+    "codigo": "3675",
+    "asignatura": "Práctica Profesional Supervisada",
+    "trayecto": "Desarrollo de SW",
+    "correlativas": [
+      "3642"
+    ],
+    "year": 3
+  },
+  {
+    "codigo": "3651",
+    "asignatura": "Probabilidad y Estadística",
+    "programaUrl": "https://ingenieria.unlam.edu.ar/descargas/668_3651_ProbabilidadyEstadistica.pdf",
+    "trayecto": "Ciencias Básicas",
+    "correlativas": [
+      "3645",
+      "3639",
+      "3621"
+    ],
+    "year": 3
+  },
+  {
+    "codigo": "3652",
+    "asignatura": "Programación Avanzada",
+    "programaUrl": "https://ingenieria.unlam.edu.ar/descargas/669_3652-ProgramacionAvanzada.pdf",
+    "trayecto": "Programación",
+    "correlativas": [
+      "3641",
+      "3646"
+    ],
+    "year": 3
+  },
+  {
+    "codigo": "3653",
+    "asignatura": "Arquitectura de Sistemas Software",
+    "programaUrl": "https://ingenieria.unlam.edu.ar/descargas/670_3653-ArquitecturadeSistemasSoftware.pdf",
+    "trayecto": "Desarrollo de SW",
+    "correlativas": [
+      "3648"
+    ],
+    "year": 3
+  },
+  {
+    "codigo": "3654",
+    "asignatura": "Virtualización de Hardware",
+    "programaUrl": "https://ingenieria.unlam.edu.ar/descargas/671_3654-VirtualizaciondeHardware.pdf",
+    "trayecto": "Infraestructura",
+    "correlativas": [
+      "3649",
+      "3645",
+      "3640"
+    ],
+    "year": 3
+  },
+  {
+    "codigo": "3655",
+    "asignatura": "Auditoría y Legislación",
+    "programaUrl": "https://ingenieria.unlam.edu.ar/descargas/672_3655-AuditoriayLegislacion.pdf",
+    "trayecto": "Calidad y Seguridad de la información",
+    "correlativas": [
+      "3650"
+    ],
+    "year": 3
+  },
+  {
+    "codigo": "3656",
+    "asignatura": "Estadística Aplicada",
+    "programaUrl": "hhttps://ingenieria.unlam.edu.ar/descargas/678_3656_EstadisticaAplicada.pdf",
+    "trayecto": "Ciencias Básicas",
+    "correlativas": [
+      "3651",
+      "3641"
+    ],
+    "year": 4
+  },
+  {
+    "codigo": "3657",
+    "asignatura": "Autómatas y Gramáticas",
+    "programaUrl": "https://ingenieria.unlam.edu.ar/descargas/679_3657-AutomatasyGramaticas.pdf",
+    "trayecto": "Programación",
+    "correlativas": [
+      "3646"
+    ],
+    "year": 4
+  },
+  {
+    "codigo": "3658",
+    "asignatura": "Programación Concurrente",
+    "programaUrl": "https://ingenieria.unlam.edu.ar/descargas/680_3658_ProgramacionConcurrente.pdf",
+    "trayecto": "Infraestructura",
+    "correlativas": [
+      "3654",
+      "3646"
+    ],
+    "year": 4
+  },
+  {
+    "codigo": "3659",
+    "asignatura": "Gestión Aplicada al Desarrollo de Software I",
+    "programaUrl": "https://ingenieria.unlam.edu.ar/descargas/681_3659GestionAplicadaalDesarrollodeSwI.pdf",
+    "trayecto": "Desarrollo de SW",
+    "correlativas": [
+      "3653",
+      "3647",
+      "3644"
+    ],
+    "year": 4
+  },
+  {
+    "codigo": "3660",
+    "asignatura": "Sistemas Operativos Avanzados",
+    "programaUrl": "https://ingenieria.unlam.edu.ar/descargas/682_3660_SistemasOperativosAvanzados.pdf",
+    "trayecto": "Infraestructura",
+    "correlativas": [
+      "3654"
+    ],
+    "year": 4
+  },
+  {
+    "codigo": "3661",
+    "asignatura": "Gestión de Proyectos",
+    "programaUrl": "https://ingenieria.unlam.edu.ar/descargas/683_3661GestiondeProyectos.pdf",
+    "trayecto": "Gestión y Complementarias",
+    "correlativas": [
+      "3651",
+      "3650",
+      "3644"
+    ],
+    "year": 4
+  },
+  {
+    "codigo": "3662",
+    "asignatura": "Matemática Aplicada",
+    "programaUrl": "https://ingenieria.unlam.edu.ar/descargas/684_3662_MatematicaAplicada.pdf",
+    "trayecto": "Ciencias Básicas",
+    "correlativas": [
+      "3651"
+    ],
+    "year": 4
+  },
+  {
+    "codigo": "3663",
+    "asignatura": "Lenguajes y Compiladores",
+    "programaUrl": "https://ingenieria.unlam.edu.ar/descargas/685_3663_LenguajesyCompiladores.pdf",
+    "trayecto": "Programación",
+    "correlativas": [
+      "3657"
+    ],
+    "year": 4
+  },
+  {
+    "codigo": "3664",
+    "asignatura": "Inteligencia Artificial",
+    "programaUrl": "https://ingenieria.unlam.edu.ar/descargas/686_3664InteligenciaArtificial.pdf",
+    "trayecto": "Desarrollo de SW",
+    "correlativas": [
+      "3651",
+      "3646"
+    ],
+    "year": 4
+  },
+  {
+    "codigo": "3665",
+    "asignatura": "Gestión Aplicada al Desarrollo de Software II",
+    "programaUrl": "https://ingenieria.unlam.edu.ar/descargas/687_3665GestionAplicadaalDesarrollodeSwII.pdf",
+    "trayecto": "Desarrollo de SW",
+    "correlativas": [
+      "3659",
+      "3652"
+    ],
+    "year": 4
+  },
+  {
+    "codigo": "3666",
+    "asignatura": "Seguridad Aplicada y Forensia",
+    "programaUrl": "https://ingenieria.unlam.edu.ar/descargas/688_3666-SeguridadAplicadaForensia.pdf",
+    "trayecto": "Calidad y Seguridad de la información",
+    "correlativas": [
+      "3655",
+      "3652",
+      "3649"
+    ],
+    "year": 4
+  },
+  {
+    "codigo": "3667",
+    "asignatura": "Gestión de la Calidad en Procesos de Sistemas",
+    "programaUrl": "https://ingenieria.unlam.edu.ar/descargas/689_3667GestiondelaCalidadenProcesosdeSistemas.pdf",
+    "trayecto": "Calidad y Seguridad de la información",
+    "correlativas": [
+      "3647"
+    ],
+    "year": 4
+  },
+  {
+    "codigo": "3668",
+    "asignatura": "Inteligencia Artificial Aplicada",
+    "programaUrl": "https://ingenieria.unlam.edu.ar/descargas/690_3668-InteligenciaArtificialAplicada.pdf",
+    "trayecto": "Desarrollo de SW",
+    "correlativas": [
+      "3664",
+      "3656"
+    ],
+    "year": 5
+  },
+  {
+    "codigo": "3670",
+    "asignatura": "Ciencia de Datos",
+    "programaUrl": "https://ingenieria.unlam.edu.ar/descargas/692_3670_CienciadeDatos.pdf",
+    "trayecto": "Desarrollo de SW",
+    "correlativas": [
+      "3664",
+      "3656"
+    ],
+    "year": 5
+  },
+  {
+    "codigo": "3669",
+    "asignatura": "Innovación y Emprende-dorismo",
+    "programaUrl": "https://ingenieria.unlam.edu.ar/descargas/691_3669_InnovacionyEmprendedorismo.pdf",
+    "trayecto": "Gestión y Complementarias",
+    "correlativas": [
+      "3661"
+    ],
+    "year": 5
+  },
+  {
+    "codigo": "3671",
+    "asignatura": "Proyecto Final de Carrera",
+    "programaUrl": "https://ingenieria.unlam.edu.ar/descargas/693_3671_Proyectofindecarrera.pdf",
+    "trayecto": "Desarrollo de SW",
+    "correlativas": [
+      "3667",
+      "3661",
+      "3660",
+      "3659",
+      "3656"
+    ],
+    "year": 5
+  },
+  {
+    "codigo": "3672",
+    "asignatura": "Electiva I",
+    "trayecto": "Desarrollo de SW",
+    "correlativas": [
+      "3658",
+      "3661",
+      "3663"
+    ],
+    "year": 5
+  },
+  {
+    "codigo": "3673",
+    "asignatura": "Electiva II",
+    "trayecto": "Desarrollo de SW",
+    "correlativas": [
+      "3662",
+      "3666"
+    ],
+    "year": 5
+  },
+  {
+    "codigo": "3674",
+    "asignatura": "Electiva III",
+    "trayecto": "Desarrollo de SW",
+    "correlativas": [
+      "3664",
+      "3665"
+    ],
+    "year": 5
+  }
+]
