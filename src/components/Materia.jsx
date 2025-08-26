@@ -55,7 +55,7 @@ export function Materia({
         ${dependienteClass}
         relative
         flex flex-col justify-center items-center font-semibold
-        col-span-1 p-2 text-white text-center rounded-xl h-38 w-32
+        col-span-1 p-2 text-white text-center rounded-xl h-38 w-30  
         cursor-pointer transition-all duration-200
       `}
     >

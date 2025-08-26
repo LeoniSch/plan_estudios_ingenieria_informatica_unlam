@@ -50,13 +50,15 @@ export function Materias() {
   }, []);
 
   return (
-    <div className="flex justify-center">
+    <div className="flex justify-center mr-12">
       <div ref={containerRef}>
         {Object.keys(groupedData).map((year) => (
-          <div key={year} className="flex items-center my-2 gap-2">
-            <div className="col-start-1 w-24 h-10 flex items-center justify-center font-bold text-base text-white rounded-lg shadow-lg
-            bg-gradient-to-br from-blue-400 to-cyan-400">AÑO {year}</div>
-            <div className="grid grid-cols-12 gap-x-2">
+          <div key={year} className="flex flex-col lg:flex-row items-center my-2 gap-2">
+            <h2 className="col-start-1 w-full lg:w-24 h-10 flex items-center justify-center font-bold text-base text-white rounded-lg shadow-lg
+            bg-gradient-to-br from-blue-400 to-cyan-400">AÑO {year}</h2>
+            <div className="
+            grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-8 xl:grid-cols-12 gap-x-2
+            ">
               {groupedData[year].map((materia) => {
                 // Correlativas: Obtenerlas de la materia seleccionada
                 const correlativas = selectedMateria
